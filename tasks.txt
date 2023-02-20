@@ -1,0 +1,10 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 05 Apr 2023, No
+user, get biscuits, fetch us all snacks, 29 Jan 2023, 4 feb 2023, Yes
+vanessa, new database, create a new customer database, 29 Jan 2023, 3 Nov 2023, Yes
+ben, accounts, finish the year end accounts, 02 Feb 2023, 10 May 2023, No
+user, cold calling, new business cold calls, 02 Feb 2023, 2 Feb 2023, No
+jen, tea, make tea, 02 Feb 2023, 10 oct 2023, Yes
+jen, more tea, make more tea, 02 Feb 2023, 2 jan 2022, No
+vanessa, clean poo, pooface made a mess, 03 Feb 2023, 3 Feb 2023, No
+vanessa, poo, do poo, 03 Feb 2023, 12 Dec 2023, No
